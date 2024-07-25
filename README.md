@@ -1,3 +1,8 @@
+В някакъв момент ми омръзна от този layout и започнах да използвам вградения. 
+Разбирам, че потенциално има липсващи символи на някой нови машини. За жалост вече не поддържам това repo, но може би е добра идея да погледнете тук:
+
+https://github.com/jordanilchev/osx-new-phonetic
+
 # macOS Bulgarian new Phonetic Keyboard Layout as Windows
 The new phonetic keyboard layout for mac OS
 
